@@ -1,3 +1,3 @@
-# enterprise-master
+# [Mann Co.] Enterprise
 
-Testing.
+The source code for the plugins used inside the [Mann Co.] TF2 Lottery server.
